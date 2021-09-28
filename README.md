@@ -1,9 +1,5 @@
 ## Oii! Eu sou o Jonathan Marques 👋
 
-- 🔭 Atualmente trabalhando com front-end
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/jhowzs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhowzs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
