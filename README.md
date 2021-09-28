@@ -1,5 +1,8 @@
 ## Oii! Eu sou o Jonathan Marques 👋
 
+- 🔭 Atualmente trabalhando com front-end
+- 🌱 Estudando JavaScript
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/jhowzs">
