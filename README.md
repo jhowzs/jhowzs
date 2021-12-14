@@ -38,13 +38,12 @@
 
 <div>
   <a href="https://github.com/jhowzs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelfernandes&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhowzs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowzs&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
   </a>
 </div>
 
 ##
- 
  
 ![Snake animation](https://github.com/jhowzs/jhowzs/blob/output/github-contribution-grid-snake.svg)
  
@@ -52,11 +51,10 @@
 
 <div> 
   <p>
-        <g-emoji class="g-emoji" alias="calling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png">📲</g-emoji> Não hesite em me enviar uma mensagem: <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️
-        </g-emoji>
+<g-emoji class="g-emoji" alias="calling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png">📲</g-emoji> Não hesite em me enviar uma mensagem: <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️</g-emoji>
   </p>
   <a href="https://instagram.com/jhow.ma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/nDPgARFPTW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jhowmarques2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhowzs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div/>
