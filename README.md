@@ -5,11 +5,14 @@
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
+<div>
+  <a href="https://github.com/jhowzs">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhowzs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowzs&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  </a>
 
-<p align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif"><img align="center" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" height="300px" style="max-width: 100%;"></a>
-</p>
-
+<div> 
+  
 ##
 
 <div style="display: inline_block"><br>
@@ -36,13 +39,6 @@
 
 ##
 
-<div>
-  <a href="https://github.com/jhowzs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhowzs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowzs&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-  </a>
-
-<div> 
   <p>
 <g-emoji class="g-emoji" alias="calling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png">📲</g-emoji> Não hesite em me enviar uma mensagem: <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️</g-emoji>
   </p>
