@@ -41,7 +41,7 @@
   <p>
 <g-emoji class="g-emoji" alias="calling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f2.png">📲</g-emoji> Não hesite em me enviar uma mensagem: <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️</g-emoji>
   </p>
-  <a href="https://instagram.com/jhow.ma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_____jhooow/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/nDPgARFPTW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jhowmarques2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhowzs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
