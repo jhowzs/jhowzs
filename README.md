@@ -2,7 +2,6 @@
 
 
 - 🔭 Atualmente trabalhando com front-end
-- 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
 <div>
