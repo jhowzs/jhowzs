@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando com front-end
-- 😄 Pronouns: ele/del
+- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/jhowzs">
